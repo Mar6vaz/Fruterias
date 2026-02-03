@@ -31,6 +31,24 @@ Proyecto web desarrollado con React + Vite + TypeScript y Ant Design para la ges
 
 ## 📦 Instalación y ejecución
 
-### 1️⃣ Clonar el repositorio
+### 1 Clonar el repositorio
 ```bash
 git clone https://github.com/Mar6vaz/Fruterias.git
+
+### 2 Entrar a la carpeta del proyecto
+cd fruteria-dashboard
+
+### 3 Instalar las dependencias
+npm install
+
+### ▶️ Ejecución del proyecto
+### Iniciar la base de datos (JSON Server)
+npx json-server --watch db.json --port 3001
+### Iniciar la aplicación web
+npm run dev
+### Abrir en el navegador:
+http://localhost:5173
+
+
+
+

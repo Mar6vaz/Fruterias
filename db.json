@@ -1,0 +1,161 @@
+{
+  "productos": [
+    {
+      "id": 2,
+      "nombre": "Plátano",
+      "precio": 18,
+      "stock": 24,
+      "fechaCaducidad": "2026-02-05"
+    },
+    {
+      "id": 3,
+      "nombre": "Naranja",
+      "precio": 20,
+      "stock": 35,
+      "fechaCaducidad": "2026-02-12"
+    },
+    {
+      "id": 5,
+      "nombre": "Uva",
+      "precio": 45,
+      "stock": 9,
+      "fechaCaducidad": "2026-02-03"
+    },
+    {
+      "id": 6,
+      "nombre": "Sandía",
+      "precio": 60,
+      "stock": 10,
+      "fechaCaducidad": "2026-02-15"
+    },
+    {
+      "id": 7,
+      "nombre": "Melón",
+      "precio": 55,
+      "stock": 12,
+      "fechaCaducidad": "2026-02-14"
+    },
+    {
+      "id": 8,
+      "nombre": "Mango",
+      "precio": 35,
+      "stock": 20,
+      "fechaCaducidad": "2026-02-07"
+    },
+    {
+      "id": 9,
+      "nombre": "Papaya",
+      "precio": 32,
+      "stock": 23,
+      "fechaCaducidad": "2026-02-11"
+    },
+    {
+      "id": 10,
+      "nombre": "Fresa",
+      "precio": 40,
+      "stock": 22,
+      "fechaCaducidad": "2026-02-04"
+    },
+    {
+      "id": 11,
+      "nombre": "Kiwi",
+      "precio": 50,
+      "stock": 14,
+      "fechaCaducidad": "2026-02-09"
+    },
+    {
+      "id": 12,
+      "nombre": "Piña",
+      "precio": 38,
+      "stock": 16,
+      "fechaCaducidad": "2026-02-13"
+    },
+    {
+      "id": 13,
+      "nombre": "Guayaba",
+      "precio": 26,
+      "stock": 24,
+      "fechaCaducidad": "2026-02-06"
+    },
+    {
+      "id": 14,
+      "nombre": "Durazno",
+      "precio": 30,
+      "stock": 19,
+      "fechaCaducidad": "2026-02-10"
+    },
+    {
+      "id": 15,
+      "nombre": "Ciruela",
+      "precio": 29,
+      "stock": 17,
+      "fechaCaducidad": "2026-02-08"
+    },
+    {
+      "nombre": "Mango Mnila",
+      "precio": 40,
+      "stock": 8,
+      "fechaCaducidad": "2027-02-03",
+      "id": 16
+    },
+    {
+      "nombre": "Manzana ",
+      "precio": 24,
+      "stock": 38,
+      "fechaCaducidad": "2026-03-21",
+      "id": 17
+    }
+  ],
+  "entradas": [
+    {
+      "productoId": 17,
+      "cantidad": 16,
+      "fecha": "2026-02-01",
+      "id": 1
+    },
+    {
+      "productoId": 16,
+      "cantidad": 2,
+      "fecha": "2026-02-01",
+      "id": 2
+    }
+  ],
+  "salidas": [
+    {
+      "productoId": 5,
+      "cantidad": 5,
+      "fecha": "2026-02-01",
+      "id": 1
+    },
+    {
+      "productoId": 5,
+      "cantidad": 1,
+      "fecha": "2026-02-01",
+      "id": 2
+    },
+    {
+      "productoId": 2,
+      "cantidad": 5,
+      "fecha": "2026-02-01",
+      "id": 3
+    },
+    {
+      "productoId": 3,
+      "cantidad": 3,
+      "fecha": "2026-02-01 22:21",
+      "id": 4
+    },
+    {
+      "productoId": 3,
+      "cantidad": 3,
+      "fecha": "2026-02-01 22:21",
+      "id": 5
+    },
+    {
+      "productoId": 2,
+      "cantidad": 1,
+      "fecha": "2026-02-03 11:06",
+      "id": 6
+    }
+  ]
+}
